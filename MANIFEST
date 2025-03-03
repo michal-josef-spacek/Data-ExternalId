@@ -19,5 +19,7 @@ META.yml
 README
 t/Data-ExternalId/01-use.t
 t/Data-ExternalId/02-version.t
+t/Data-ExternalId/03-new.t
+t/Data-ExternalId/04-id.t
 xt/Data-ExternalId/01-pod_coverage.t
 xt/Data-ExternalId/02-pod.t
